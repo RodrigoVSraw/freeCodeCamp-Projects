@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Page</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+    <h1 id="title">ROUTINE SURVEY</h1>
+    <p id="description">Register your information to take part in the survey</p>
+
+    <form id="survey-form">
+      <fieldset>
+        <label id="name-label">Inform you complete name:<input class="info" id="name" type="text" placeholder="Name" required></label>
+
+        <label id="email-label">Inform your E-mail:<input class="info" id="email" type="email" placeholder="E-mail" required></label>
+
+        <label id="number-label">Inform your age and gender: <input class="age" id="number" type="number" min="15" max="80" placeholder="Age" required></label>
+
+        <label id="select">
+         <select id="dropdown">
+            <option value="Man">Man</option>
+            <option value="Woman">Woman</option>
+         </select>
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Your current professional situation</legend>
+        <label>
+          <input name="job" type="radio" value="Employed" checked>Employed
+        </label>
+
+        <label>
+          <input name="job" type="radio" value="Unemployed" checked>Unemployed
+        </label> 
+      </fieldset>
+      
+      <fieldset>
+        <legend>What breakfest do you often eat?</legend>
+        <label class="options">
+          <input class="checklist" type="checkbox" value="Eggs">Eggs
+        </label>
+         <label class="options">
+          <input class="checklist" type="checkbox" value="pancakes">Pancakes
+        </label> 
+        <label class="options">
+          <input class="checklist" type="checkbox" value="Cereal">Cereal Bowl
+        </label> 
+        <label class="options">
+          <input class="checklist" type="checkbox" value="Fruits">Fruits
+        </label>
+        <label>
+          <textarea placeholder="For other options..."></textarea>
+        </label>
+      </fieldset>
+    <input id="submit" type="submit"></input>
+    </form>
+  </body>
+
+
+</html>
