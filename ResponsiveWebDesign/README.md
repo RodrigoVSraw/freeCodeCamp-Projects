@@ -23,7 +23,7 @@ Este formulário coleta informações básicas de rotina como:
 
 ## 📁 Como visualizar
 
-Basta abrir o arquivo `SurveyFormProject.html` em qualquer navegador.
+Basta abrir o arquivo `SurveyFormProject.html`.
 
 ---
 
