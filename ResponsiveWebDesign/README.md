@@ -7,7 +7,12 @@ Cada projeto foi desenvolvido para praticar conceitos de **HTML** e **CSS**, com
 
 ## 📂 Projetos
 
-- [Formulário de Pesquisa](ResponsiveWebDesign/Project1) → Primeiro projeto, praticando formulários em HTML e estilização básica com CSS.
+1. [Formulário de Pesquisa](ResponsiveWebDesign/Project1) → Primeiro projeto, praticando formulários em HTML e estilização básica com CSS.
+2. [Página de Tributo](ResponsiveWebDesign/Project2) → Criação de uma página de tributo responsiva, trabalhando com imagens e layout.
+3. [Página de Documentação Técnica](ResponsiveWebDesign/Project3) → Projeto para treinar navegação, listas e seções organizadas.
+4. [Página de Landing Page de Produto](ResponsiveWebDesign/Project4) → Desenvolvimento de uma página de produto, com foco em responsividade e design.
+5. [Portfólio Pessoal](ResponsiveWebDesign/Project5) → Projeto final, reunindo os conceitos aprendidos para criar uma página de portfólio.
+
 
 ---
 
