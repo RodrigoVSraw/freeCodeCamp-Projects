@@ -1,11 +1,11 @@
-# ⚙️ JavaScript Algorithms and Data Structures - freeCodeCamp
+# ⚙️ *JavaScript Algorithms and Data Structures* - freeCodeCamp
 
 Este repositório contém exercícios e projetos do curso de **JavaScript** da freeCodeCamp.  
 O foco é em **lógica de programação, algoritmos e estruturas de dados**.
 
 ---
 
-## 📂 Projetos
+## 📂 *Projetos*
 
 1. [Conversor de Números Romanos](./Project1)  
 2. [Validador de Números de Telefone](./Project2)  
@@ -15,7 +15,7 @@ O foco é em **lógica de programação, algoritmos e estruturas de dados**.
 
 ---
 
-## 🚀 Conteúdos praticados
+## 🚀 *Conteúdos praticados*
 - Sintaxe moderna do **JavaScript (ES6+)**
 - Funções, loops e condicionais
 - Arrays e objetos
