@@ -1,11 +1,11 @@
-# 📊 Data Analysis with Python - freeCodeCamp
+# 📊 *Data Analysis with Python* - freeCodeCamp
 
 Projetos do curso de **Data Analysis with Python**.  
 Explorando análise e manipulação de dados com **Pandas, NumPy e Matplotlib**.
 
 ---
 
-## 📂 Projetos
+## 📂 *Projetos*
 
 1. [Mean-Variance-Standard Deviation Calculator](./Project1)  
 2. [Demographic Data Analyzer](./Project2)  
@@ -15,7 +15,7 @@ Explorando análise e manipulação de dados com **Pandas, NumPy e Matplotlib**.
 
 ---
 
-## 🚀 Conteúdos praticados
+## 🚀 *Conteúdos praticados*
 - Manipulação de dados com **Pandas**
 - Operações numéricas com **NumPy**
 - Visualização com **Matplotlib / Seaborn**
