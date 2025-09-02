@@ -7,11 +7,11 @@ Focado em **PostgreSQL, modelagem de dados e SQL**.
 
 ## 📂 Projetos
 
-- [World Cup Database](./Project1)  
-- [Salon Appointment Scheduler](./Project2)  
-- [Periodic Table Database](./Project3)  
-- [Number Guessing Game](./Project4)  
-- [Celestial Bodies Database](./Project5)  
+1. [World Cup Database](./Project1)  
+2. [Salon Appointment Scheduler](./Project2)  
+3. [Periodic Table Database](./Project3)  
+4. [Number Guessing Game](./Project4)  
+5. [Celestial Bodies Database](./Project5)  
 
 ---
 
