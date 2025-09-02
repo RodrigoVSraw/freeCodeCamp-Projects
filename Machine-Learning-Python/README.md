@@ -7,11 +7,11 @@ Construção de modelos de aprendizado de máquina usando **scikit-learn** e out
 
 ## 📂 Projetos
 
-- [Rock Paper Scissors](./Project1)  
-- [Cat and Dog Image Classifier](./Project2)  
-- [Book Recommendation System](./Project3)  
-- [Neural Network SMS Classifier](./Project4)  
-- [Linear Regression Health Costs Calculator](./Project5)  
+1. [Rock Paper Scissors](./Project1)  
+2. [Cat and Dog Image Classifier](./Project2)  
+3. [Book Recommendation System](./Project3)  
+4. [Neural Network SMS Classifier](./Project4)  
+5. [Linear Regression Health Costs Calculator](./Project5)  
 
 ---
 
