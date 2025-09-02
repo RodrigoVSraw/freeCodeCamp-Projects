@@ -31,13 +31,13 @@ Cada curso possui seu próprio `README.md`, com projetos e descrições detalhad
 
 ---
 
-## 🚀 Como funciona
+## 🚀 *Como funciona*
 1. Clique no nome de um curso acima.  
 2. Você será redirecionado para o `README.md` específico daquele curso.  
 3. Lá encontrará os projetos e descrições detalhadas de cada atividade.  
 
 ---
 
-## 📌 Observações
+## 📌 *Observações*
 - Este repositório será atualizado conforme eu avançar nos cursos.  
 - Cada curso está em uma **pasta própria** com seu conteúdo.
