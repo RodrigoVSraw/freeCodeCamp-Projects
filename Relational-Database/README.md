@@ -1,11 +1,11 @@
-# 🗄️ Relational Database - freeCodeCamp
+# 🗄️ *Relational Database* - freeCodeCamp
 
 Projetos do curso de **Relational Database**.  
 Focado em **PostgreSQL, modelagem de dados e SQL**.
 
 ---
 
-## 📂 Projetos
+## 📂 *Projetos*
 
 1. [World Cup Database](./Project1)  
 2. [Salon Appointment Scheduler](./Project2)  
@@ -15,7 +15,7 @@ Focado em **PostgreSQL, modelagem de dados e SQL**.
 
 ---
 
-## 🚀 Conteúdos praticados
+## 🚀 *Conteúdos praticados*
 - Comandos **SQL (SELECT, INSERT, UPDATE, DELETE)**
 - Criação e manipulação de tabelas
 - Chaves primárias e estrangeiras
