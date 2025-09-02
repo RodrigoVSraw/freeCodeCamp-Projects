@@ -1,4 +1,4 @@
-# 📘 freeCodeCamp - Projetos e Cursos
+# 📘 freeCodeCamp - *Projetos e Cursos*
 
 Bem-vindo(a)! 👋  
 Este repositório serve como **sumário** dos meus projetos desenvolvidos nos cursos da [freeCodeCamp](https://www.freecodecamp.org/).  
@@ -6,7 +6,7 @@ Cada curso possui seu próprio `README.md`, com projetos e descrições detalhad
 
 ---
 
-## 📂 Cursos
+## 📂 *Cursos*
 
 - [🎨 Responsive Web Design](./ResponsiveWebDesign/README.md)  
   Fundamentos de **HTML** e **CSS**, com foco em design responsivo e boas práticas de frontend.
