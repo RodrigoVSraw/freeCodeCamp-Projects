@@ -7,11 +7,11 @@ Explorando conceitos matemáticos e computacionais usando **Python**.
 
 ## 📂 Projetos
 
-- [Arithmetic Formatter](./Project1)  
-- [Time Calculator](./Project2)  
-- [Budget App](./Project3)  
-- [Polygon Area Calculator](./Project4)  
-- [Probability Calculator](./Project5)  
+1. [Arithmetic Formatter](./Project1)  
+2. [Time Calculator](./Project2)  
+3. [Budget App](./Project3)  
+4. [Polygon Area Calculator](./Project4)  
+5. [Probability Calculator](./Project5)  
 
 ---
 
