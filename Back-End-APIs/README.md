@@ -7,11 +7,11 @@ Focado em **Node.js, Express e integração com APIs externas**.
 
 ## 📂 Projetos
 
-- [Timestamp Microservice](./Project1)  
-- [Request Header Parser](./Project2)  
-- [URL Shortener](./Project3)  
-- [Exercise Tracker](./Project4)  
-- [File Metadata Microservice](./Project5)  
+1. [Timestamp Microservice](./Project1)  
+2. [Request Header Parser](./Project2)  
+3. [URL Shortener](./Project3)  
+4. [Exercise Tracker](./Project4)  
+5. [File Metadata Microservice](./Project5)  
 
 ---
 
