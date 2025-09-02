@@ -7,11 +7,11 @@ O foco é em **lógica de programação, algoritmos e estruturas de dados**.
 
 ## 📂 Projetos
 
-- [Conversor de Números Romanos](./Project1)  
-- [Validador de Números de Telefone](./Project2)  
-- [Caixa Registradora](./Project3)  
-- [Verificador de Palíndromos](./Project4)  
-- [Cifra de César](./Project5)  
+1. [Conversor de Números Romanos](./Project1)  
+2. [Validador de Números de Telefone](./Project2)  
+3. [Caixa Registradora](./Project3)  
+4. [Verificador de Palíndromos](./Project4)  
+5. [Cifra de César](./Project5)  
 
 ---
 
