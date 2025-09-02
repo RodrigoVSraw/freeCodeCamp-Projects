@@ -1,11 +1,11 @@
-# 🐍 Scientific Computing with Python - freeCodeCamp
+# 🐍 *Scientific Computing with Python* - freeCodeCamp
 
 Projetos do curso de **Scientific Computing with Python**.  
 Explorando conceitos matemáticos e computacionais usando **Python**.
 
 ---
 
-## 📂 Projetos
+## 📂 *Projetos*
 
 1. [Arithmetic Formatter](./Project1)  
 2. [Time Calculator](./Project2)  
@@ -15,7 +15,7 @@ Explorando conceitos matemáticos e computacionais usando **Python**.
 
 ---
 
-## 🚀 Conteúdos praticados
+## 🚀 *Conteúdos praticados*
 - Sintaxe do **Python**
 - Funções e módulos
 - Estruturas de dados (listas, dicionários)
